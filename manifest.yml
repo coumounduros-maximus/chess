@@ -1,6 +1,6 @@
 ---
 applications:
-- name: number
+- name: chess
   random-route: true
   instances: 1
   memory: 64M
